@@ -2,7 +2,9 @@
 
 Eu sou o Victor Bruno , Sou um programador Front End , atualmente estou aprendendo e criando projetos com HTML , CSS e iniciando os estudos em JAVA SCRIPT e REACT.
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbruno8&show_icons=true&theme=dracula)
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbruno8&show_icons=true&theme=dracula) <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbruno8&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu estou utilizando atualmente : 
 
