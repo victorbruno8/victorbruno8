@@ -15,10 +15,6 @@ Contate-me: <br>
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbruno8&show_icons=true&theme=dracula) <br>
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbruno8&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ## Tecnologias que eu estou utilizando atualmente : 
 
 <div style="display: inline-block"><br/>
