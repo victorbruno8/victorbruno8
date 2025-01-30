@@ -6,6 +6,7 @@ Eu sou o Victor Bruno , Sou um programador Front End , atualmente estou aprenden
 - JavaScript
 - Node.js
 - React
+- TypeScript
 
 Contate-me: <br>
 
